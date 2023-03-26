@@ -1,0 +1,9 @@
+body {
+  background: black;
+  color: red;
+}
+
+.special {
+  color: aqua;
+  font-family: "Courier New", Courier, monospace;
+}
