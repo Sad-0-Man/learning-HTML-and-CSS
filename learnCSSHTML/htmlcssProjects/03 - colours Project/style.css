@@ -1,9 +1,19 @@
-#first {
-  color: white;
-  background: black;
+body {
+  background: rgba(211, 211, 211, 0.5);
 }
 
-#second {
-  color: white;
-  background: blue;
+.container {
+  background-color: rgb(255, 255, 255);
+}
+
+.container h2{
+  color: purple;
+}
+
+.container p{
+  color: grey;
+}
+
+#specialContainer{
+  background-color: rgb(2, 6, 3);
 }
