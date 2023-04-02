@@ -1,6 +1,27 @@
 body {
   font-family: "Poppins", sans-serif;
+  line-height: 1;
+  text-align: center;
+  position: center;
 }
 h1 {
   font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+}
+
+.two {
+  letter-spacing: 5px;
+  text-align: right;
+}
+
+.three {
+  word-spacing: 5px;
+  text-align: left;
+}
+
+.secondH {
+  text-decoration: overline;
+  color: red;
+  text-transform: lowercase;
+  text-align: right;
 }
